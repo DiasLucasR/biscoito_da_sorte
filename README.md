@@ -16,18 +16,18 @@ Este repositório contém o código-fonte de um aplicativo simples e interativo 
 ## Como Rodar o Projeto 💻
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/fortune-cookie-messages.git
+git clone https://github.com/DiasLucasR/biscoito_da_sorte.git
 ```
 
 Instale as dependências:
 ```bash
-cd fortune-cookie-messages
-npm install
+cd biscoito_da_sorte
+yarn install
 ```
 
 Inicie o servidor de desenvolvimento:
 ```bash
-expo start
+yarn android
 ```
 Escaneie o QR code com o aplicativo Expo Go ou execute no emulador.
 
